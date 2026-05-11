@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://www.spatio.app/developers/docs/sdk"
   s.summary     = "Ruby SDK for the SpatioAPI"
   s.description = "Ruby SDK for the SpatioAPI. Generated from the official OpenAPI spec."
-  s.license     = "Apache-2.0"
+  s.license     = "MIT"
   s.required_ruby_version = ">= 2.7"
   s.metadata    = {}
 
